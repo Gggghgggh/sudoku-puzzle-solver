@@ -1,3 +1,5 @@
+# solver.py
+
 def get_subgrid_size(size):
     # Define subgrid dimensions based on board size
     if size == 4:
